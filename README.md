@@ -7,4 +7,5 @@ It is fully animated with gental sliding effects on **click and drag**
 
 
 **The working preview of the design :**
-[design.webm](https://github.com/Shivam-Ranpise/Figma-Designs/assets/99407071/0cb4edcc-6b26-47b9-ad76-4ec9e3345806)
+
+[design.webm](https://github.com/Shivam-Ranpise/Figma-Designs/assets/99407071/f914fc2c-3fea-4961-a957-cc7c0387417b)
