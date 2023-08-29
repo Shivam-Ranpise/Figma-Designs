@@ -1,4 +1,4 @@
-# Nike Shoes Preview Design Template (<a href="[https://www.java.com/](https://www.figma.com/file/b98o5lYx0v4M1dIlkZgyQ3/Nike-Shoes?type=design&node-id=0%3A1&mode=design&t=xISjEvotkdBaA8nZ-1)https://www.figma.com/file/b98o5lYx0v4M1dIlkZgyQ3/Nike-Shoes?type=design&node-id=0%3A1&mode=design&t=xISjEvotkdBaA8nZ-1" target="_blank">View Here</a>)
+# Nike Shoes Preview Design Template  <a href="[https://www.java.com/](https://www.figma.com/file/b98o5lYx0v4M1dIlkZgyQ3/Nike-Shoes?type=design&node-id=0%3A1&mode=design&t=xISjEvotkdBaA8nZ-1)https://www.figma.com/file/b98o5lYx0v4M1dIlkZgyQ3/Nike-Shoes?type=design&node-id=0%3A1&mode=design&t=xISjEvotkdBaA8nZ-1" target="_blank"></a>
 
 It is fully animated with gental sliding effects on **click and drag**
 
